@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Special Topics on Mobile Sensing & Mobile Networks 
-tagline: CSE610 
+title: CSE610 
+tagline:  Special Topics on Mobile Sensing & Mobile Networks
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Yaxiong Xie 
 baseurl: '/CSE610_Fall_2023' # the subpath of your site, e.g. /blog
