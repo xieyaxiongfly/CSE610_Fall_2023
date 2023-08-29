@@ -18,7 +18,7 @@ tagline: CSE610
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Yaxiong Xie 
 baseurl: '/CSE610_Fall_2023' # the subpath of your site, e.g. /blog
-url: 'https://xieyaxiongfly.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://xieyaxiongfly.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Yaxiong Xie:
-    - 'https://kevinl.info'
+    - 'https://xieyaxiongfly.github.io/'
 footer_content:
 
 # Collections for website data
