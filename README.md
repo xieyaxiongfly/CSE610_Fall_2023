@@ -8,7 +8,7 @@ seo:
   name: Just the Class
 ---
 
-# Special Topics on Mobile Sensing & Mobile Networks 
+## Special Topics on Mobile Sensing & Mobile Networks 
 {: .fs-9 } 
 
 Fall 2022, University at Buffalo 
