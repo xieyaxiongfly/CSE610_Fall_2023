@@ -37,7 +37,6 @@ schedule:
         start: 2:00 PM
         end: 3:30 PM
         location: Park Hall 440 
-     
   - name: Wednesday
     events:
       - name: Lecture
