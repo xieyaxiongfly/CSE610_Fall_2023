@@ -8,4 +8,4 @@ meta:
   Office Hours: On-deman via Email 
 ---
 
-[Schedule an appointment](yaxiongx@buffalo.edu){: .btn .btn-outline }
+[Schedule an appointment](mailto:yaxiongx@buffalo.edu){: .btn .btn-outline }
