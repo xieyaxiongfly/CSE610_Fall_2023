@@ -2,22 +2,19 @@
 title: Basic Data Structures
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Sep 4
+: Labor's Day
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Sep 5
+: **Lecture**{: .label .label-purple }[Wireless Channel and OFDM](#)
+  : [Slides](#)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Sep 4
+: N/A
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+Sep 4
+: **Lecture**{: .label .label-purple } [Wireless Localization](#)
+  : [Slides](#)
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Sep 4
+: N/A
