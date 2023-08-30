@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Staff
+nav_order: 3
 description: A listing of all the course staff members.
 ---
 
