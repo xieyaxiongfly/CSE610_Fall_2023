@@ -3,7 +3,7 @@ name: Yaxiong Xie
 role: Instructor
 email: yaxiongx@buffalo.edu 
 website: https://xieyaxiongfly.github.io/#home
-photo: kevin.jpg
+photo: yaxiong.jpg
 meta:
   Office Hours: Somewhere on the internet
 ---
