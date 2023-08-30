@@ -21,6 +21,9 @@ baseurl: '/CSE610_Fall_2023' # the subpath of your site, e.g. /blog
 url: 'https://xieyaxiongfly.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
+
+favicon_ico: "/assets/images/buffalo.png"
+
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.6.1
 color_scheme: light
@@ -38,6 +41,7 @@ collections:
   modules:
   schedules:
   announcements:
+
 # Default layouts for each collection type
 defaults:
   - scope:

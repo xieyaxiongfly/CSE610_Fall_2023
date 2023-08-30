@@ -14,7 +14,7 @@ seo:
 Fall 2022, University at Buffalo 
 {: .fs-6 .fw-300 }
 
-**Instructor:** Yaxiong Xie
+**Instructor:** 
 
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
