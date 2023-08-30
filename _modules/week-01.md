@@ -1,23 +1,19 @@
 ---
-title: Introduction to Java
+title: Week 1
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Aug 28
+: N/A 
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
+Aug 29
+: **Lecture**{: .label .label-purple }[Course Introduction](#)
   : [Solution](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Aug 30
+: N/A 
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+Aug 31
+: **Lecture**{: .label .label-purple } [Introduction of Wireless Communication System](#)
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Sep 1
+: N/A 
