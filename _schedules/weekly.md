@@ -36,9 +36,9 @@ schedule:
   - name: Tuesday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
+        start: 2:00 PM
+        end: 3:30 AM
+        location: 440 Park Hall 
   - name: Wednesday
     events:
       - name: Lecture
