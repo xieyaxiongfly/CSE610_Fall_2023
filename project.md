@@ -5,6 +5,8 @@ description: The description of the course project.
 nav_order: 3
 ---
 
+# Project 
+
 One of the major goals of this class is to understand how wireless systems research is done. To this end, the project is an important component of CSE610, where you can get your hands dirty by proposing an interesting research idea based on your knowledge or experience from the course readings and then realizing your idea!
 
 ## Teams:
