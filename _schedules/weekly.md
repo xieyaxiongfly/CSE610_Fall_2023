@@ -28,10 +28,5 @@ schedule:
         location: 440 Park Hall 
   - name: Wednesday
   - name: Thursday
-    events:
-      - name: Lecture
-        start: 2:00 PM
-        end: 3:30 PM
-        location: 440 Park Hall 
   - name: Friday
 ---
