@@ -13,7 +13,7 @@ Aug 30
 : N/A 
 
 Aug 31
-: **Lecture**{: .label .label-purple }[Wireless Communication System](#)
+: N/A 
 
 Sep 1
 : N/A 
