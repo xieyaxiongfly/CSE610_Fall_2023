@@ -7,7 +7,7 @@ Sep 4
 
 Sep 5
 : **Lecture**{: .label .label-purple }[Wireless Communication System](#)
-  : [Slides](/assets/slides/lec02-wireless_cse610.pdf)
+  : [Slides](/CSE610_Fall_2023/assets/slides/lec02-wireless_cse610.pdf)
 
 Sep 6
 : N/A
