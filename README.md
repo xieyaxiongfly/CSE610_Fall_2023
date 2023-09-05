@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: CSE610 Mobile Network & Sensing 
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Mobile Networks & Sensing 
 ---
 
 ## Special Topics on Mobile Sensing & Mobile Networks 
