@@ -7,7 +7,7 @@ Aug 28
 
 Aug 29
 : **Lecture**{: .label .label-purple }[Course Introduction](#)
-  : [Slides](#)
+  : [Slides](/assets/slides/lec01-intro_cse610.pdf)
 
 Aug 30
 : N/A 

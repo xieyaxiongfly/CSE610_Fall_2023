@@ -6,15 +6,14 @@ Sep 4
 : Labor's Day
 
 Sep 5
-: **Lecture**{: .label .label-purple }[Wireless Channel and OFDM](#)
-  : [Slides](#)
+: **Lecture**{: .label .label-purple }[Wireless Communication System](#)
+  : [Slides](/assets/slides/lec02-wireless_cse610.pdf)
 
-Sep 4
+Sep 6
 : N/A
 
-Sep 4
-: **Lecture**{: .label .label-purple } [Wireless Localization](#)
-  : [Slides](#)
+Sep 7
+: N/A
 
-Sep 4
+Sep 8
 : N/A
