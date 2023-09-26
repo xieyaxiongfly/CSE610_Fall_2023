@@ -7,7 +7,7 @@ Oct 23
 
 Oct 24
 : **Presentation**{: .label .label-blue }[Paper Presentation](#)
-  : [Paper](/CSE610_Fall_2023/assets/paper/rfpose3D.pdf)
+  : [RF Pose](/CSE610_Fall_2023/assets/paper/rfpose3D.pdf)
 : **Guest Lecture**{: .label .label-yellow }[TBD](#)
   : [Website]()
 Oct 25

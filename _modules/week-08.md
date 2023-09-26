@@ -7,7 +7,7 @@ Oct 16
 
 Oct 17
 : **Presentation**{: .label .label-blue }[Paper Presentation](#)
-  : [Paper](/CSE610_Fall_2023/assets/paper/array_track.pdf)
+  : [Array Track](/CSE610_Fall_2023/assets/paper/array_track.pdf)
 : **Guest Lecture**{: .label .label-yellow }[TBD](#)
   : [Website]()
 Oct 18

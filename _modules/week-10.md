@@ -7,9 +7,9 @@ Oct 30
 
 Oct 31
 : **Presentation**{: .label .label-blue }[Paper Presentation](#)
-  : [Paper](/CSE610_Fall_2023/assets/paper/rfpose3D.pdf)
-: **Guest Lecture**{: .label .label-yellow }[TBD](#)
-  : [Website]()
+  : [Bio-Implant](/CSE610_Fall_2023/assets/paper/bio_implant.pdf)
+: **Presentation**{: .label .label-blue }[Paper Presentation](#)
+  : [Mozart](/CSE610_Fall_2023/assets/paper/mozart.pdf)
 Nov 1
 : N/A
 
