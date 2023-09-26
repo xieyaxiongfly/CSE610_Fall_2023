@@ -6,7 +6,7 @@ Sep 11
 : N/A
 
 Sep 12
-: **Lecture**{: .label .label-purple }[Wireless Channel and OFDM](#)
+: **Lecture**{: .label .label-purple }[MIMO and OFDM](#)
   : [Slides](/CSE610_Fall_2023/assets/slides/lec03_cse610.pdf)
 
 Sep 13
