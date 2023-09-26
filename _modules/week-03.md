@@ -7,7 +7,7 @@ Sep 11
 
 Sep 12
 : **Lecture**{: .label .label-purple }[Wireless Channel and OFDM](#)
-  : [Slides](#)
+  : [Slides](/CSE610_Fall_2023/assets/slides/lec03_cse610.pdf)
 
 Sep 13
 : N/A
