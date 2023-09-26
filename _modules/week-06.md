@@ -2,20 +2,20 @@
 title: Week 6
 ---
 
-Sep 30
+Oct 2
 : N/A
 
-Sep 31
+Oct 4
 : **Lecture**{: .label .label-purple }[Mobile Networks](#)
   : [Slides](/CSE610_Fall_2023/assets/slides/lec05_cse610.pdf)
 
-: **Midterm Exam**{: .label .label-red }[Mobile Networks](#)
+: **Exam**{: .label .label-red }[Midterm Exam](#)
 
-Sep 1
+Oct 4
 : N/A
 
-Sep 2
+Oct 5
 : N/A
 
-Sep 3
+Oct 6
 : N/A
