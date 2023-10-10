@@ -10,6 +10,7 @@ Oct 31
   : [Bio-Implant](/CSE610_Fall_2023/assets/paper/bio_implant.pdf)
 : **Presentation**{: .label .label-blue }[Paper Presentation](#)
   : [Mozart](/CSE610_Fall_2023/assets/paper/mozart.pdf)
+
 Nov 1
 : N/A
 

@@ -41,6 +41,7 @@ Fall 2022, University at Buffalo
 
 **Slack:** We will use slack to ask questions. Pleas join the slack via this [link](https://join.slack.com/t/slack-pvl4009/shared_invite/zt-225v7oixh-ikMtTMzvE8IS2oX1MFXtJQ).
 
+**Paper Presentation:** Please sign up for the paper that you want to present from this [link](https://docs.google.com/spreadsheets/d/1LpBmbRhYzaUqJvbklVMF-2CA1VYYG8D_Bkq28Q6bIRI/edit?usp=sharing) 
 
 **Grading:** The course grade will be based on the following components.
 

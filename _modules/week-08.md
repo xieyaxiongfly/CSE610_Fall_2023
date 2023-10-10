@@ -10,6 +10,7 @@ Oct 17
   : [Array Track](/CSE610_Fall_2023/assets/paper/array_track.pdf)
 : **Guest Lecture**{: .label .label-yellow }[TBD](#)
   : [Website]()
+
 Oct 18
 : N/A
 
