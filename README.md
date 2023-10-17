@@ -43,6 +43,8 @@ Fall 2022, University at Buffalo
 
 **Paper Presentation:** Please sign up for the paper that you want to present from this [link](https://docs.google.com/spreadsheets/d/1LpBmbRhYzaUqJvbklVMF-2CA1VYYG8D_Bkq28Q6bIRI/edit?usp=sharing) 
 
+**Questions Regarding the Paper:** Please use [Persuall](https://www.perusall.com/) to ask questions. To find the course, please use the course code **XIE-7TTHF**. 
+
 **Grading:** The course grade will be based on the following components.
 
 - Class Participation: 10%
